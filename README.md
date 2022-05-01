@@ -26,10 +26,18 @@
 
 ## 📝 적용 기술 및 구현 기능
 
-<img src = "https://github.com/wingna1/wantuPicbase/blob/main/wantuGIF.gif">
+### 적용 기술(FE) 
+   - React, CRA, React Router
+   - Javascript
+   - SCSS
 
 
 ### 구현기능
+
+
+<img src = "https://github.com/wingna1/wantuPicbase/blob/main/wantuGIF.gif">
+
+
 * Nav & Footer
     - Nav : 호버 시 2단 드롭다운 메뉴가 나타나 카테고리 보여줌
     - Footer : 타겟 사이트 원티드의 footer와 유사하게 구현
